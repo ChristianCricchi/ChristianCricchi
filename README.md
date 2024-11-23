@@ -8,8 +8,6 @@ Each of my programming projects starts from scratch: from the initial planning a
 I have already obtained a Level 5 qualification in Full Stack Web Application Developer at 
 <a href="https://codeinstitute.net/ie/"><img align="center" alt="Code Institute Logo" height="50" width="50" src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4" target="_blank" rel="noreferrer noopener"></a>.
 
-Get in touch: 
-
 <p align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-cricchi-9a185075/)
@@ -17,15 +15,21 @@ Get in touch:
 
 </p>
 
-### 🧰 Languages and Tools
+---
+
+### 🧰 **Languages**
+
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
-<img align="left" alt="NomeIcona" width="30px" style="padding-right:10px;" src="icona.png" /> 
-![Descrizione dell'immagine]()
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
+
 <br />
 
-#
+[SonicPi](https://sonic-pi.net)
+
+---
+
+
