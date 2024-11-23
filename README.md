@@ -28,14 +28,6 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
 
-<a href="">
-  <img src="./images/sonicPi.PNG" width="30px" style="padding-right:10px;">
-</a>
-
-<br />
-
-[SonicPi](https://sonic-pi.net)
-
 ---
 
 ### 🧰 **Frameworks and Libraries**
@@ -81,6 +73,16 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 <br />
 
 ---
+
+### 🧰 **Tools**
+
+<a href="">
+  <img src="./images/sonicPi.PNG" width="30px" style="padding-right:10px;">
+</a>
+
+<br />
+
+[SonicPi](https://sonic-pi.net)
 
 ## 👷‍♂️ My recent projects
 
