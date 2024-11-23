@@ -93,7 +93,7 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 ### Shelly's Corner | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
 
 <a href="https://shellys-corner-5b60b12a8abf.herokuapp.com/">
-  <img src="./images/ShellysCorner.PNG" alt="Lari Living ECommerce" style="border-radius: 15px; width: 400px; height: auto;">
+  <img src="./images/ShellysCorner.PNG" alt="ShellysCorner" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
 
