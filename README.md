@@ -67,8 +67,6 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
           
 
-         
-
 <br />
 
 ---
@@ -86,10 +84,6 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 
 ## 👷‍♂️ My recent projects
 
-          
-          
-          
-          
 
 
 
