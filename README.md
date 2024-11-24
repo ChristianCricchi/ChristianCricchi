@@ -69,8 +69,8 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitpod/gitpod-original.svg" />       
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-                  
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+          `                      
 <br />
 
 ---
@@ -84,9 +84,6 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 <br />
 
 [SonicPi](https://sonic-pi.net)
-<br/>
-
----
 
 <br/>
 
@@ -98,6 +95,24 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 
 <a href="https://shellys-corner-5b60b12a8abf.herokuapp.com/">
   <img src="./images/ShellysCorner.PNG" alt="ShellysCorner" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
+
+### Daily Flight Planner | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+
+<a href="https://daily-flight-planner-3bcd72540a25.herokuapp.com/login">
+  <img src="./images/daily_flight_planner.PNG" alt="DailyFlightPlanner" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
+
+### ChecKnowledge | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+
+<a href="https://christiancricchi.github.io/ChecKnowledge/">
+  <img src="./images/ChecKnowledge.PNG" alt="ChecKnowledge" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
+
+### Vegan Life | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+
+<a href="https://christiancricchi.github.io/Vegan-Life/">
+  <img src="./images/VeganLife.PNG" alt="Vegan-Life" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
 
