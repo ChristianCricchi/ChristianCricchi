@@ -97,24 +97,55 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
   <img src="./images/ShellysCorner.PNG" alt="ShellysCorner" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-### Daily Flight Planner | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+### Daily Flight Planner | [GitHub Repository](https://github.com/ChristianCricchi/Daily_Flight_Planner)
 
 <a href="https://daily-flight-planner-3bcd72540a25.herokuapp.com/login">
   <img src="./images/daily_flight_planner.PNG" alt="DailyFlightPlanner" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-### ChecKnowledge | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+### ChecKnowledge | [GitHub Repository](https://github.com/ChristianCricchi/ChecKnowledge)
 
 <a href="https://christiancricchi.github.io/ChecKnowledge/">
   <img src="./images/ChecKnowledge.PNG" alt="ChecKnowledge" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
-### Vegan Life | [GitHub Repository](https://github.com/ChristianCricchi/shelly-s_corner)
+### Vegan Life | [GitHub Repository](https://github.com/ChristianCricchi/Vegan-Life)
 
 <a href="https://christiancricchi.github.io/Vegan-Life/">
   <img src="./images/VeganLife.PNG" alt="Vegan-Life" style="border-radius: 15px; width: 400px; height: auto;">
 </a>
 
+### Love Maths | [GitHub Repository](https://github.com/ChristianCricchi/love-maths)
+
+<a href="https://christiancricchi.github.io/love-maths/">
+  <img src="./images/loveMaths.PNG" alt="Love-Maths" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
+
+### Bingo Page | [GitHub Repository](https://christiancricchi.github.io/BingoPage/)
+
+<a href="https://christiancricchi.github.io/BingoPage/">
+  <img src="./images/BingoPage.PNG" alt="Bingo-Page" style="border-radius: 15px; width: 400px; height: auto;">
+</a>
+
+---
+
+## Hackathon Experience
+
+- I participated in the "Proud Coders 🏳️‍🌈: July 2024 Hackathon" at Code Institute, where I developed an app celebrating diversity and inclusivity in the LGBTQ+ community. The website features the Progress Pride Flag, a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community.
+
+---
+
+## Certifications
+
+- [Hackathon at Code Institute](https://eu.badgr.com/public/assertions/y3Lq8msXTR2_5VU1XgLYXw?identity__email=christiancricchi@gmail.com): Obtained in Octuber 2023
+
+
+## Contact
+
+Feel free to connect me through the following platforms:
+
+- **LinkedIn**: [Christian Cricchi](https://www.linkedin.com/in/christian-cricchi-9a185075/)
+- **Email**: christiancricchi@gmail.com
 
 
 
