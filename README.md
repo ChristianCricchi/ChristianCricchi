@@ -137,7 +137,7 @@ I have already obtained a Level 5 qualification in Full Stack Web Application De
 
 ## Certifications
 
-- [Hackathon at Code Institute](https://eu.badgr.com/public/assertions/y3Lq8msXTR2_5VU1XgLYXw?identity__email=christiancricchi@gmail.com): Obtained in Octuber 2023
+- [Hackathon at Code Institute](https://api.eu.badgr.io/public/assertions/y3Lq8msXTR2_5VU1XgLYXw?identity__email=christiancricchi%40gmail.com): Obtained in Octuber 2023
 
 
 ## Contact
