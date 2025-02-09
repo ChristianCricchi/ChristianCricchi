@@ -2,11 +2,17 @@
 
 **`Junior Full Stack Web Application Developer`**
 
-Recent graduate with a Level 5 diploma in Web Application Development from <a href="https://codeinstitute.net/ie/"><img align="center" alt="Code Institute Logo" height="50" width="50" src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4" target="_blank" rel="noreferrer noopener"></a>, proficient in Python, CSS, HTML, and JavaScript. 
-My experience in aviation and customer service has equipped me with excellent communication skills, making me a valuable team player and I have developed an effectively strong ability to solve problems under pressure. I am eager to embark on a career in the tech industry, joining a dynamic development team where I can grow professionally and actively contribute.
-
 <p align="left">
-  
+	
+Recent graduate with a Level 5 diploma in Web Application Development from <a href="https://codeinstitute.net/ie/"><img align="center" alt="Code Institute Logo" height="50" width="50"  
+src="https://avatars.githubusercontent.com/u/16867170?s=200&v=4" target="_blank" rel="noreferrer noopener"></a>, proficient in Python, CSS, HTML, and JavaScript. My experience in aviation and customer service has equipped me with 
+excellent communication skills, making me a valuable team player and I have developed an effectively strong ability to solve problems under pressure. I am eager to embark on a career in the tech industry, joining a 
+dynamic development team where I can grow professionally and actively contribute.
+ 
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-cricchi-9a185075/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristianCricchi?tab=repositories)
 
